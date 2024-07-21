@@ -73,6 +73,7 @@ OPENROUTER_API_KEY=
 OPENAI_API_KEY=
 ```
 --------------------------------------------------
+Sample: 
 - Scout Name : Your Node Name 
 - Scout Cash ID : 
 - WebHook IP : 

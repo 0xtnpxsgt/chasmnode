@@ -113,6 +113,7 @@ curl localhost:3001
 docker logs scout
 ```
 
-Check Your Node Here: https://scout.chasm.net/leaderboard
-
+# Check Your Node Here: 
+- https://scout.chasm.net/leaderboard
+- https://scout.chasm.net/dashboard
 

@@ -36,14 +36,15 @@ We need MNT Token for mint transaction. 0.20 Cent MNT : 0.35 MNT
 - Go to https://scout.chasm.net/private-mint / Connect your metamask wallet with MNT atleast 2 Token (Mantle Network) 
 
 ![image](https://github.com/user-attachments/assets/290ad42f-03ce-450c-9962-b7b08a4920f1)
-Mint : https://scout.chasm.net/private-mint
+
+- Mint : https://scout.chasm.net/private-mint
 
 # Create API KEY'S HERE:
 - Save API KEY for later setup. 
 
-Groq : https://console.groq.com/keys
-OpenRouter : https://openrouter.ai/settings/keys
-OpenAI : https://platform.openai.com/api-keys
+- Groq : https://console.groq.com/keys
+- OpenRouter : https://openrouter.ai/settings/keys
+- OpenAI : https://platform.openai.com/api-keys
 
 # Create .ENV FILE
 ```bash
@@ -114,5 +115,6 @@ curl localhost:3001
 docker logs scout
 ```
 
+Check Your Node Here: https://scout.chasm.net/leaderboard
 
 

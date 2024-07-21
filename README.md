@@ -81,6 +81,9 @@ OPENAI_API_KEY=
 - Openrouter API : 
 - OPENAI : 
 --------------------------------------------------
+![image](https://github.com/user-attachments/assets/1c0349b4-09ae-4218-bbce-59fd849bd806)
+
+
 # PORT
 ```bash
 ufw allow 3001

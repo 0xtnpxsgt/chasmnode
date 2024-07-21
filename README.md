@@ -92,7 +92,7 @@ ufw allow 3001
 
 # Docker Pull Chasm- Scout
 ```bash
-docker pull johnsonchasm/chasm-scout .
+docker pull johnsonchasm/chasm-scout
 ```
 ```bash
 docker run -d --restart=always --env-file ./.env -p 3001:3001 --name scout johnsonchasm/chasm-scout

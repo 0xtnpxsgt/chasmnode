@@ -117,3 +117,6 @@ docker logs scout
 - https://scout.chasm.net/leaderboard
 - https://scout.chasm.net/dashboard
 
+# Having problem with the Setup?
+- Join my discord: https://discord.gg/STC78yjb
+

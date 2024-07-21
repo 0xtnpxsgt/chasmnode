@@ -37,8 +37,6 @@ We need MNT Token for mint transaction. 0.20 Cent MNT : 0.35 MNT
 
 ![image](https://github.com/user-attachments/assets/290ad42f-03ce-450c-9962-b7b08a4920f1)
 
-- Mint : https://scout.chasm.net/private-mint
-
 # Create API KEY'S HERE:
 - Save API KEY for later setup. 
 

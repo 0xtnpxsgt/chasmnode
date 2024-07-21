@@ -72,7 +72,7 @@ GROQ_API_KEY=
 OPENROUTER_API_KEY=
 OPENAI_API_KEY=
 ```
-
+--------------------------------------------------
 - Scout Name : Your Node Name 
 - Scout Cash ID : 
 - WebHook IP : 
